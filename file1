@@ -2,7 +2,6 @@ print("Hello world!")
 
 
 print("Привет мир!")
-
-
+12345
 print("Как дела?")
 Add line
